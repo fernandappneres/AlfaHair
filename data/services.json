@@ -1,0 +1,164 @@
+{
+  "currency": "BRL",
+  "categories": [
+    { "id": "cabelo", "label": "Cabelo" },
+    { "id": "unhas", "label": "Unhas" },
+    { "id": "estetica", "label": "Estética" },
+    { "id": "maquiagem", "label": "Maquiagem" }
+  ],
+  "services": [
+    {
+      "id": "corte-feminino",
+      "category": "cabelo",
+      "name": "Corte Feminino",
+      "description": "Corte personalizado com lavagem e finalização com escova.",
+      "duration": 60,
+      "price": 90,
+      "priceFrom": true
+    },
+    {
+      "id": "corte-masculino",
+      "category": "cabelo",
+      "name": "Corte Masculino",
+      "description": "Máquina e tesoura, com acabamento na navalha.",
+      "duration": 40,
+      "price": 50,
+      "priceFrom": true
+    },
+    {
+      "id": "escova",
+      "category": "cabelo",
+      "name": "Escova Modelada",
+      "description": "Lavagem, hidratação rápida e escova com modelagem.",
+      "duration": 50,
+      "price": 60,
+      "priceFrom": true
+    },
+    {
+      "id": "coloracao",
+      "category": "cabelo",
+      "name": "Coloração",
+      "description": "Cor uniforme e brilhante com produtos de alta performance.",
+      "duration": 120,
+      "price": 150,
+      "priceFrom": true
+    },
+    {
+      "id": "mechas",
+      "category": "cabelo",
+      "name": "Mechas e Luzes",
+      "description": "Morena iluminada, balayage ou luzes com matização.",
+      "duration": 240,
+      "price": 350,
+      "priceFrom": true
+    },
+    {
+      "id": "progressiva",
+      "category": "cabelo",
+      "name": "Progressiva",
+      "description": "Alisamento com redução de volume e frizz, sem formol.",
+      "duration": 180,
+      "price": 250,
+      "priceFrom": true
+    },
+    {
+      "id": "manicure",
+      "category": "unhas",
+      "name": "Manicure",
+      "description": "Cutilagem, lixamento e esmaltação tradicional.",
+      "duration": 40,
+      "price": 35,
+      "priceFrom": true
+    },
+    {
+      "id": "pedicure",
+      "category": "unhas",
+      "name": "Pedicure",
+      "description": "Cuidado completo dos pés com esmaltação.",
+      "duration": 50,
+      "price": 40,
+      "priceFrom": true
+    },
+    {
+      "id": "esmaltacao-gel",
+      "category": "unhas",
+      "name": "Esmaltação em Gel",
+      "description": "Brilho intenso e durabilidade de até 3 semanas.",
+      "duration": 60,
+      "price": 80,
+      "priceFrom": true
+    },
+    {
+      "id": "alongamento",
+      "category": "unhas",
+      "name": "Alongamento em Fibra",
+      "description": "Unhas longas, resistentes e com aspecto natural.",
+      "duration": 150,
+      "price": 180,
+      "priceFrom": true
+    },
+    {
+      "id": "design-sobrancelhas",
+      "category": "estetica",
+      "name": "Design de Sobrancelhas",
+      "description": "Mapeamento facial e modelagem com pinça ou linha.",
+      "duration": 30,
+      "price": 45,
+      "priceFrom": true
+    },
+    {
+      "id": "limpeza-pele",
+      "category": "estetica",
+      "name": "Limpeza de Pele",
+      "description": "Extração, esfoliação e máscara calmante.",
+      "duration": 90,
+      "price": 140,
+      "priceFrom": true
+    },
+    {
+      "id": "depilacao",
+      "category": "estetica",
+      "name": "Depilação com Cera",
+      "description": "Cera morna hipoalergênica. Valor por região.",
+      "duration": 30,
+      "price": 30,
+      "priceFrom": true
+    },
+    {
+      "id": "lash-lifting",
+      "category": "estetica",
+      "name": "Lash Lifting",
+      "description": "Curvatura natural dos cílios por até 8 semanas.",
+      "duration": 60,
+      "price": 120,
+      "priceFrom": true
+    },
+    {
+      "id": "maquiagem-social",
+      "category": "maquiagem",
+      "name": "Maquiagem Social",
+      "description": "Make para festas e eventos, com cílios inclusos.",
+      "duration": 60,
+      "price": 150,
+      "priceFrom": true
+    },
+    {
+      "id": "maquiagem-noiva",
+      "category": "maquiagem",
+      "name": "Maquiagem de Noiva",
+      "description": "Teste prévio + maquiagem de longa duração no grande dia.",
+      "duration": 120,
+      "price": 450,
+      "priceFrom": true
+    },
+    {
+      "id": "penteado",
+      "category": "maquiagem",
+      "name": "Penteado",
+      "description": "Coque, semi-preso ou ondas para qualquer ocasião.",
+      "duration": 60,
+      "price": 120,
+      "priceFrom": true
+    }
+  ]
+}
